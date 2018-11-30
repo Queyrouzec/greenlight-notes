@@ -1,0 +1,1 @@
+{"title":"objects","message":"for (var key*can be anything* in pets*name of the object who's keys we want*) {\n  console.log(key) *prints all keys values*\n\tconsole.log(keys[pets]) *prints keys\"\n\t","id":"8d91af47-164d-4863-a5a8-ef2813bf9dab","date":"2018-11-30T01:31:46.078Z"}
